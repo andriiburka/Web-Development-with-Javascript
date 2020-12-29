@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir1_polezni_linkove/nope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir2_otkrivane_na_kursa/nope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir3_parvi_stapki_v_programiraneto/nope" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,7 @@
       <workItem from="1608897537119" duration="1039000" />
       <workItem from="1608907667013" duration="3130000" />
       <workItem from="1609198398864" duration="1604000" />
-      <workItem from="1609253398183" duration="2304000" />
+      <workItem from="1609253398183" duration="2643000" />
     </task>
     <servers />
   </component>
