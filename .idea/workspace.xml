@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" beforeDir="false" afterPath="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +34,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js">
+  <component name="RunManager" selected="Shell Script.upload.sh">
     <configuration name="JUDGE_EXERCISE_first_steps_in_coding.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" working-dir="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
@@ -69,8 +68,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js" />
         <item itemvalue="Shell Script.upload.sh" />
+        <item itemvalue="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js" />
         <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
@@ -86,7 +85,7 @@
       <workItem from="1608897537119" duration="1039000" />
       <workItem from="1608907667013" duration="3130000" />
       <workItem from="1609198398864" duration="1604000" />
-      <workItem from="1609253398183" duration="3495000" />
+      <workItem from="1609253398183" duration="3763000" />
     </task>
     <servers />
   </component>
