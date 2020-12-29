@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="" />
+    <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1m9EiDVIiCIYFzQpQjirIjebIkk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +35,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js">
+  <component name="RunManager" selected="Shell Script.upload.sh">
     <configuration name="JUDGE_EXERCISE_first_steps_in_coding.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" working-dir="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
@@ -38,13 +45,28 @@
     <configuration name="basics.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/basics.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
       <item itemvalue="Node.js.basics.js" />
       <item itemvalue="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js" />
+      <item itemvalue="Shell Script.upload.sh" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Shell Script.upload.sh" />
         <item itemvalue="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js" />
         <item itemvalue="Node.js.basics.js" />
       </list>
@@ -61,11 +83,22 @@
       <workItem from="1608897537119" duration="1039000" />
       <workItem from="1608907667013" duration="3130000" />
       <workItem from="1609198398864" duration="1604000" />
-      <workItem from="1609253398183" duration="1342000" />
+      <workItem from="1609253398183" duration="2002000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
