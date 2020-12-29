@@ -1,13 +1,19 @@
 // 1 - USD to BGN
-function usdToBgn(arg) {
-    let usd = arg
-    let bgn = usd * 1.79549
+function usdToBgn(usdInput) {
+    let bgn = Number(usdInput) * 1.79549
     console.log(bgn)
 }
 
-usdToBgn(100)
+usdToBgn('100')
 
 
 
 
-// 2 -
+
+// 2 - Radians to Degrees
+function radToDeg(radianInput) {
+    let degree = (Number(radianInput) * 180 / Math.PI).toFixed(0)
+    console.log(degree)
+}
+
+radToDeg('3.1416')
