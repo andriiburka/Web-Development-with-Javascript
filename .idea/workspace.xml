@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab1_hello_softuni.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab2_nums_1-10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab3_square_area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab4_inches_to_centimeters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab5_greeting_by_name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab6_concatenate_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab7_projects_creation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab9_yard_greening.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex1_usd_to_bgn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex2_radians_to_degrees.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex4_vacation_book_list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex6_charity_campaign.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" beforeDir="false" afterPath="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir1_polezni_linkove/nope" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir1_polezni_linkove_0-0/nope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir2_otkrivane_na_kursa/nope" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir2_otkrivane_na_kursa_0-0/nope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir3_parvi_stapki_v_programiraneto/nope" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab8_pet_shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +37,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1m9EiDVIiCIYFzQpQjirIjebIkk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,43 +59,48 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Shell Script.upload.sh">
-    <configuration name="JUDGE_EXERCISE_first_steps_in_coding.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" working-dir="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto">
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BASICS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.lab9_yard_greening.js">
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+    <configuration name="lab5_greeting_by_name.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab5_greeting_by_name.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
       <method v="2" />
     </configuration>
-    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="/bin/zsh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="EXECUTE_IN_TERMINAL" value="true" />
-      <envs />
+    <configuration name="lab6_concatenate_data.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab6_concatenate_data.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
+      <method v="2" />
+    </configuration>
+    <configuration name="lab7_projects_creation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab7_projects_creation.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
+      <method v="2" />
+    </configuration>
+    <configuration name="lab8_pet_shop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab8_pet_shop.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
+      <method v="2" />
+    </configuration>
+    <configuration name="lab9_yard_greening.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab9_yard_greening.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js" />
-      <item itemvalue="Shell Script.upload.sh" />
-      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Node.js.lab5_greeting_by_name.js" />
+      <item itemvalue="Node.js.lab6_concatenate_data.js" />
+      <item itemvalue="Node.js.lab7_projects_creation.js" />
+      <item itemvalue="Node.js.lab8_pet_shop.js" />
+      <item itemvalue="Node.js.lab9_yard_greening.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Shell Script.upload.sh" />
-        <item itemvalue="Node.js.JUDGE_EXERCISE_first_steps_in_coding.js" />
-        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.lab9_yard_greening.js" />
+        <item itemvalue="Node.js.lab8_pet_shop.js" />
+        <item itemvalue="Node.js.lab7_projects_creation.js" />
+        <item itemvalue="Node.js.lab6_concatenate_data.js" />
+        <item itemvalue="Node.js.lab5_greeting_by_name.js" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +115,12 @@
       <workItem from="1608897537119" duration="1039000" />
       <workItem from="1608907667013" duration="3130000" />
       <workItem from="1609198398864" duration="1604000" />
-      <workItem from="1609253398183" duration="3763000" />
+      <workItem from="1609253398183" duration="4264000" />
+      <workItem from="1609259383016" duration="9596000" />
+      <workItem from="1609704277535" duration="506000" />
+      <workItem from="1609704963984" duration="2436000" />
+      <workItem from="1609787123145" duration="147000" />
+      <workItem from="1610304611625" duration="4629000" />
     </task>
     <servers />
   </component>
@@ -102,5 +137,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
