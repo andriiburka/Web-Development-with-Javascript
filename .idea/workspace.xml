@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/28-29_MAR_2020/1_change_bureau.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/fuelMoney.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/planinar_neshto_si.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/touristShop4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir10_uprajnenie_for_loop/ex1_chisla_do_1000_zavarshvashti_na_7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex4_vacation_book_list_100_100.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex7_fruit_market_100_100.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex8_fish_tank.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex1_usd_to_bgn.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex1_usd_to_bgn_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex2_radians_to_degrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex2_radians_to_degrees_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex4_vacation_book_list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party_100_100.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex6_charity_campaign.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex6_charity_campaign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex8_fish_tank.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex8_fish_tank.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,40 +55,50 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ex3_deposit_calc.js">
-    <configuration name="1_change_bureau.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/28-29_MAR_2020/1_change_bureau.js" working-dir="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/28-29_MAR_2020">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.ex6_charity_campaign.js">
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="ex3_deposit_calc.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
+    <configuration name="ex3_deposit_calc_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
     <configuration name="ex5_birthday_party_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
+    <configuration name="ex6_charity_campaign.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex6_charity_campaign.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
+      <method v="2" />
+    </configuration>
     <configuration name="ex7_fruit_market_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex7_fruit_market_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.1_change_bureau.js" />
-      <item itemvalue="Node.js.test.js" />
       <item itemvalue="Node.js.ex7_fruit_market_100_100.js" />
       <item itemvalue="Node.js.ex5_birthday_party_100_100.js" />
-      <item itemvalue="Node.js.ex3_deposit_calc.js" />
+      <item itemvalue="Node.js.ex3_deposit_calc_100_100.js" />
+      <item itemvalue="Shell Script.upload.sh" />
+      <item itemvalue="Node.js.ex6_charity_campaign.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.ex3_deposit_calc.js" />
+        <item itemvalue="Node.js.ex6_charity_campaign.js" />
+        <item itemvalue="Shell Script.upload.sh" />
+        <item itemvalue="Node.js.ex3_deposit_calc_100_100.js" />
         <item itemvalue="Node.js.ex5_birthday_party_100_100.js" />
         <item itemvalue="Node.js.ex7_fruit_market_100_100.js" />
-        <item itemvalue="Node.js.1_change_bureau.js" />
-        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +136,7 @@
       <workItem from="1612771253658" duration="2065000" />
       <workItem from="1612808853383" duration="319000" />
       <workItem from="1612860277951" duration="687000" />
-      <workItem from="1612961091156" duration="4939000" />
+      <workItem from="1612961091156" duration="6943000" />
     </task>
     <servers />
   </component>
