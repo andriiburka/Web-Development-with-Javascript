@@ -2,25 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab1_hello_softuni.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab2_nums_1-10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab3_square_area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab4_inches_to_centimeters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab5_greeting_by_name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab6_concatenate_data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab7_projects_creation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab9_yard_greening.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex1_usd_to_bgn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex2_radians_to_degrees.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex4_vacation_book_list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex6_charity_campaign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/28-29_MAR_2020/1_change_bureau.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/fuelMoney.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/planinar_neshto_si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/touristShop4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir10_uprajnenie_for_loop/ex1_chisla_do_1000_zavarshvashti_na_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex4_vacation_book_list_100_100.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex7_fruit_market_100_100.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex8_fish_tank.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir1_polezni_linkove/nope" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir1_polezni_linkove_0-0/nope" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir2_otkrivane_na_kursa/nope" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir2_otkrivane_na_kursa_0-0/nope" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir3_parvi_stapki_v_programiraneto/nope" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab8_pet_shop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dir4_uprajnenie_parvi_stapki_v_programiraneto/JUDGE_EXERCISE_first_steps_in_coding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex1_usd_to_bgn.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex1_usd_to_bgn_100_100.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex2_radians_to_degrees.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex2_radians_to_degrees_100_100.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex4_vacation_book_list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party_100_100.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex6_charity_campaign.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex6_charity_campaign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -54,8 +53,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -67,40 +69,40 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.lab9_yard_greening.js">
+  <component name="RunManager" selected="Node.js.ex3_deposit_calc.js">
+    <configuration name="1_change_bureau.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/28-29_MAR_2020/1_change_bureau.js" working-dir="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/28-29_MAR_2020">
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="lab5_greeting_by_name.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab5_greeting_by_name.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
+    <configuration name="ex3_deposit_calc.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex3_deposit_calc.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
-    <configuration name="lab6_concatenate_data.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab6_concatenate_data.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
+    <configuration name="ex5_birthday_party_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex5_birthday_party_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
-    <configuration name="lab7_projects_creation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab7_projects_creation.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
+    <configuration name="ex7_fruit_market_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto/ex7_fruit_market_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto">
       <method v="2" />
     </configuration>
-    <configuration name="lab8_pet_shop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab8_pet_shop.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
-      <method v="2" />
-    </configuration>
-    <configuration name="lab9_yard_greening.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900/lab9_yard_greening.js" working-dir="$PROJECT_DIR$/js_basics/dir3_parvi_stapki_v_programiraneto_900-900">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.lab5_greeting_by_name.js" />
-      <item itemvalue="Node.js.lab6_concatenate_data.js" />
-      <item itemvalue="Node.js.lab7_projects_creation.js" />
-      <item itemvalue="Node.js.lab8_pet_shop.js" />
-      <item itemvalue="Node.js.lab9_yard_greening.js" />
+      <item itemvalue="Node.js.1_change_bureau.js" />
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Node.js.ex7_fruit_market_100_100.js" />
+      <item itemvalue="Node.js.ex5_birthday_party_100_100.js" />
+      <item itemvalue="Node.js.ex3_deposit_calc.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.lab9_yard_greening.js" />
-        <item itemvalue="Node.js.lab8_pet_shop.js" />
-        <item itemvalue="Node.js.lab7_projects_creation.js" />
-        <item itemvalue="Node.js.lab6_concatenate_data.js" />
-        <item itemvalue="Node.js.lab5_greeting_by_name.js" />
+        <item itemvalue="Node.js.ex3_deposit_calc.js" />
+        <item itemvalue="Node.js.ex5_birthday_party_100_100.js" />
+        <item itemvalue="Node.js.ex7_fruit_market_100_100.js" />
+        <item itemvalue="Node.js.1_change_bureau.js" />
+        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +122,25 @@
       <workItem from="1609704277535" duration="506000" />
       <workItem from="1609704963984" duration="2436000" />
       <workItem from="1609787123145" duration="147000" />
-      <workItem from="1610304611625" duration="4629000" />
+      <workItem from="1610304611625" duration="10591000" />
+      <workItem from="1610382652511" duration="469000" />
+      <workItem from="1610427341124" duration="301000" />
+      <workItem from="1611334755388" duration="11037000" />
+      <workItem from="1611605972733" duration="251000" />
+      <workItem from="1611657036062" duration="189000" />
+      <workItem from="1611673209908" duration="257000" />
+      <workItem from="1611744381878" duration="3467000" />
+      <workItem from="1612130406762" duration="501000" />
+      <workItem from="1612216045067" duration="149000" />
+      <workItem from="1612383124206" duration="899000" />
+      <workItem from="1612388839577" duration="9000" />
+      <workItem from="1612600166806" duration="3694000" />
+      <workItem from="1612701610148" duration="87000" />
+      <workItem from="1612706526877" duration="5839000" />
+      <workItem from="1612771253658" duration="2065000" />
+      <workItem from="1612808853383" duration="319000" />
+      <workItem from="1612860277951" duration="687000" />
+      <workItem from="1612961091156" duration="4939000" />
     </task>
     <servers />
   </component>
