@@ -1,3 +1,4 @@
+# shellcheck disable=SC2164
 cd
 cd WebstormProjects/education-javascript
 git add .
