@@ -2,16 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex1_sum_seconds_100_100.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex2_bonus_score.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex3_speed_info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex4_metric_converter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex5_time_plus_15_mins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex6_godzilla_vs_kong.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex7_world_swimming_record.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex8_scholarship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex1_room_painting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex2_spaseship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex3_cat_life.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex4_cat_food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex5_christmas_gifts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex6_gold_mine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks/01. Room painting_Условие.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks/02. Spaceship_Условие.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks/03. Cat Life_Условие.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks/04. Cat Food_Условие.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks/05. Christmas Gifts_Условие.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks/06. Gold Mine_Условие.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex3_speed_info_100_100.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex4_metric_converter_100_100.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex5_time_plus_15_mins_100_100.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/planinar_neshto_si.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/planinar_neshto_si.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/28-29_MAR_2020/1_change_bureau.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/fuelMoney.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/planinar_neshto_si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/EXAM-PREPARATION/touristShop4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex1_sum_seconds_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex1_sum_seconds_100_100.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex3_speed_info.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir17_platen_online_izpit/ВЗЕТ ПРЕДВАРИТЕЛЕН ИЗПИТ С ОТЛИЧЕН" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex4_metric_converter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex5_time_plus_15_mins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex6_godzilla_vs_kong.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex6_godzilla_vs_kong.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex7_world_swimming_record.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex7_world_swimming_record.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,60 +68,53 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ex2_bonus_score_100_100.js">
+  <component name="RunManager" selected="Node.js.exam_ex6_gold_mine.js">
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="ex1_sum_seconds_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex1_sum_seconds_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki">
+    <configuration name="exam_ex1_room_painting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex1_room_painting.js" working-dir="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit">
       <method v="2" />
     </configuration>
-    <configuration name="ex2_bonus_score_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki/ex2_bonus_score_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir6_uprajnenie_proverki">
+    <configuration name="exam_ex2_spaseship.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex2_spaseship.js" working-dir="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit">
       <method v="2" />
     </configuration>
-    <configuration name="ex3_deposit_calc_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex3_deposit_calc_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto_800_800">
+    <configuration name="exam_ex3_cat_life.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex3_cat_life.js" working-dir="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit">
       <method v="2" />
     </configuration>
-    <configuration name="ex6_charity_campaign_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex6_charity_campaign_100_100.js" working-dir="$PROJECT_DIR$/js_basics/dir4_uprajnenie_parvi_stapki_v_programiraneto_800_800">
+    <configuration name="exam_ex4_cat_food.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex4_cat_food.js" working-dir="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit">
       <method v="2" />
     </configuration>
-    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="/bin/zsh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="EXECUTE_IN_TERMINAL" value="true" />
-      <envs />
+    <configuration name="exam_ex6_gold_mine.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/exam_ex6_gold_mine.js" working-dir="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.ex3_deposit_calc_100_100.js" />
-      <item itemvalue="Node.js.ex6_charity_campaign_100_100.js" />
-      <item itemvalue="Node.js.ex1_sum_seconds_100_100.js" />
-      <item itemvalue="Shell Script.upload.sh" />
-      <item itemvalue="Node.js.ex2_bonus_score_100_100.js" />
+      <item itemvalue="Node.js.exam_ex1_room_painting.js" />
+      <item itemvalue="Node.js.exam_ex2_spaseship.js" />
+      <item itemvalue="Node.js.exam_ex3_cat_life.js" />
+      <item itemvalue="Node.js.exam_ex4_cat_food.js" />
+      <item itemvalue="Node.js.exam_ex6_gold_mine.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.ex2_bonus_score_100_100.js" />
-        <item itemvalue="Node.js.ex1_sum_seconds_100_100.js" />
-        <item itemvalue="Shell Script.upload.sh" />
-        <item itemvalue="Node.js.ex6_charity_campaign_100_100.js" />
-        <item itemvalue="Node.js.ex3_deposit_calc_100_100.js" />
+        <item itemvalue="Node.js.exam_ex6_gold_mine.js" />
+        <item itemvalue="Node.js.exam_ex3_cat_life.js" />
+        <item itemvalue="Node.js.exam_ex1_room_painting.js" />
+        <item itemvalue="Node.js.exam_ex2_spaseship.js" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +153,20 @@
       <workItem from="1612808853383" duration="319000" />
       <workItem from="1612860277951" duration="687000" />
       <workItem from="1612961091156" duration="16608000" />
-      <workItem from="1612995335520" duration="1846000" />
+      <workItem from="1612995335520" duration="2216000" />
+      <workItem from="1613030430061" duration="483000" />
+      <workItem from="1613117074171" duration="5187000" />
+      <workItem from="1613200941513" duration="3119000" />
+      <workItem from="1613245079070" duration="6454000" />
+      <workItem from="1613287416371" duration="2784000" />
+      <workItem from="1613343249382" duration="5996000" />
+      <workItem from="1613590646169" duration="199000" />
+      <workItem from="1613847474579" duration="4980000" />
+      <workItem from="1613890626220" duration="360000" />
+      <workItem from="1613933831057" duration="243000" />
+      <workItem from="1613976308911" duration="616000" />
+      <workItem from="1614153743801" duration="1000" />
+      <workItem from="1614616120078" duration="1016000" />
     </task>
     <servers />
   </component>
