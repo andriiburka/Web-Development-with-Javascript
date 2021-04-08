@@ -1,3 +1,10 @@
+/*  2.	Greatest Common Divisor - GCD
+    Write a function that takes two positive numbers as input and compute the greatest common divisor.
+    The input comes as two positive integer numbers.
+    The output should be printed on the console.
+*/
+
+
 function gcd(num1, num2) {
     let higher = Math.max(num1, num2), lower = Math.min(num1, num2)
 

@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/course2_js_fundamentals/ex_01_movies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/ex1_fruit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/ex2_greatest_common_divisor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab1_echo_function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab2_string_length.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab3_largest_number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab4_circle_area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/тест.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/a_1_polezni_linkove_0-0/abc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/ex2_greatest_common_divisor.js" beforeDir="false" afterPath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/ex2_greatest_common_divisor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +59,11 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ex2_greatest_common_divisor.js">
-    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.03.js">
+    <configuration name="03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/03.js" working-dir="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements">
       <method v="2" />
     </configuration>
-    <configuration name="тест.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/тест.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="ex1_fruit.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/ex1_fruit.js" working-dir="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements">
@@ -82,24 +75,34 @@
     <configuration name="ex_01_movies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/course2_js_fundamentals/ex_01_movies.js" working-dir="$PROJECT_DIR$/course2_js_fundamentals">
       <method v="2" />
     </configuration>
-    <configuration name="lab4_circle_area.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab4_circle_area.js" working-dir="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements">
+    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.lab4_circle_area.js" />
-      <item itemvalue="Node.js.тест.js" />
       <item itemvalue="Node.js.ex_01_movies.js" />
       <item itemvalue="Node.js.ex1_fruit.js" />
       <item itemvalue="Node.js.ex2_greatest_common_divisor.js" />
+      <item itemvalue="Shell Script.upload.sh" />
+      <item itemvalue="Node.js.03.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.03.js" />
+        <item itemvalue="Shell Script.upload.sh" />
         <item itemvalue="Node.js.ex2_greatest_common_divisor.js" />
         <item itemvalue="Node.js.ex1_fruit.js" />
         <item itemvalue="Node.js.ex_01_movies.js" />
-        <item itemvalue="Node.js.тест.js" />
-        <item itemvalue="Node.js.lab4_circle_area.js" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +169,7 @@
       <workItem from="1616351606636" duration="311000" />
       <workItem from="1616576123114" duration="111000" />
       <workItem from="1617278868533" duration="3911000" />
-      <workItem from="1617871870191" duration="1371000" />
+      <workItem from="1617871870191" duration="3245000" />
     </task>
     <servers />
   </component>
