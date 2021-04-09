@@ -14,12 +14,9 @@ function f(x) {
     for (let i = 0; i < stringNumber.length; i++) {
         sum += Number(stringNumber[i])
 
-        if (stringNumber[i + 1] !== undefined) {
-            if (stringNumber[i] !== stringNumber[i + 1]) {
-                isSame = false
-            }
+        if ((stringNumber[i + 1] !== undefined) && (stringNumber[i] !== stringNumber[i + 1])) {
+            isSame = false
         }
-
     }
     console.log(isSame)
     console.log(sum)
