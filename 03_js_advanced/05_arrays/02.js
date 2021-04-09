@@ -9,7 +9,7 @@ The output is the return value of your function. Collect all elements in a strin
 function f(x) {
     let arr = []
     for (let i = 0; i < x.length; i++) {
-        if (i%2===0) {
+        if (i % 2 === 0) {
             arr.push(x[i])
         }
     }
