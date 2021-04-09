@@ -5,7 +5,7 @@ The input comes as array of string elements holding numbers.
 The output is the return value of your function.
 */
 
-function f(input) {
+function sumFirstLast(input) {
     let first = Number(input[0])
     let last = Number(input.slice(-1)[0])
     console.log(first + last)

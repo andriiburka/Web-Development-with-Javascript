@@ -2,58 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements/04.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/a_1_polezni_linkove_0-0/nope" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/a_1_polezni_linkove_0-0/nope" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/b_2_otkrivane_na_kursa_0-0/nope" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/b_2_otkrivane_na_kursa_0-0/nope" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab1_hello_softuni.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab1_hello_softuni.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab2_nums_1-10.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab2_nums_1-10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab3_square_area.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab3_square_area.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab4_inches_to_centimeters.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab4_inches_to_centimeters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab5_greeting_by_name.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab5_greeting_by_name.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab6_concatenate_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab6_concatenate_data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab7_projects_creation.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab7_projects_creation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab8_pet_shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab8_pet_shop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab9_yard_greening.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/c_3_parvi_stapki_v_programiraneto_900-900/lab9_yard_greening.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex1_usd_to_bgn_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex1_usd_to_bgn_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex2_radians_to_degrees_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex2_radians_to_degrees_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex3_deposit_calc_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex3_deposit_calc_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex4_vacation_book_list_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex4_vacation_book_list_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex5_birthday_party_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex5_birthday_party_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex6_charity_campaign_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex6_charity_campaign_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex7_fruit_market_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex7_fruit_market_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex8_fish_tank_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/d_4_uprajnenie_parvi_stapki_v_programiraneto_800_800/ex8_fish_tank_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex1_sum_seconds_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex1_sum_seconds_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex2_bonus_score_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex2_bonus_score_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex3_speed_info_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex3_speed_info_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex4_metric_converter_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex4_metric_converter_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex5_time_plus_15_mins_100_100.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex5_time_plus_15_mins_100_100.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex6_godzilla_vs_kong.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex6_godzilla_vs_kong.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex7_world_swimming_record.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex7_world_swimming_record.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/f_6_uprajnenie_proverki/ex8_scholarship.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/f_6_uprajnenie_proverki/ex8_scholarship.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/j_10_uprajnenie_for_loop/ex1_chisla_do_1000_zavarshvashti_na_7.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/j_10_uprajnenie_for_loop/ex1_chisla_do_1000_zavarshvashti_na_7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/exam_ex1_room_painting.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/exam_ex1_room_painting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/exam_ex2_spaseship.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/exam_ex2_spaseship.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/exam_ex3_cat_life.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/exam_ex3_cat_life.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/exam_ex4_cat_food.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/exam_ex4_cat_food.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/exam_ex5_christmas_gifts.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/exam_ex5_christmas_gifts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/exam_ex6_gold_mine.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/exam_ex6_gold_mine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/tasks/01. Room painting_Условие.docx" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/tasks/01. Room painting_Условие.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/tasks/02. Spaceship_Условие.docx" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/tasks/02. Spaceship_Условие.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/tasks/03. Cat Life_Условие.docx" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/tasks/03. Cat Life_Условие.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/tasks/04. Cat Food_Условие.docx" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/tasks/04. Cat Food_Условие.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/tasks/05. Christmas Gifts_Условие.docx" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/tasks/05. Christmas Gifts_Условие.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/p_16_predvaritelen_online_izpit/tasks/06. Gold Mine_Условие.docx" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/p_16_predvaritelen_online_izpit/tasks/06. Gold Mine_Условие.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1_js_basics/q_17_platen_online_izpit/ВЗЕТ ПРЕДВАРИТЕЛЕН ИЗПИТ С ОТЛИЧЕН" beforeDir="false" afterPath="$PROJECT_DIR$/01_js_basics/q_17_platen_online_izpit/ВЗЕТ ПРЕДВАРИТЕЛЕН ИЗПИТ С ОТЛИЧЕН" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course2_js_fundamentals/ex_01_movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_js_fundamentals/ex_01_movies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements/03.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/ex1_fruit.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements/01_fruit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course3_js_advanced/ex_syntax_functions_and_statements/ex2_greatest_common_divisor.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements/02_greatest_common_divisor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab1_echo_function.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/03_syntax_functions_and_statements/lab1_echo_function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab2_string_length.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/03_syntax_functions_and_statements/lab2_string_length.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab3_largest_number.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/03_syntax_functions_and_statements/lab3_largest_number.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course3_js_advanced/lab_syntax_functions_and_statements/lab4_circle_area.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/03_syntax_functions_and_statements/lab4_circle_area.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/тест.js" beforeDir="false" afterPath="$PROJECT_DIR$/тест.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_js_advanced/05_arrays/01_sum_first_last.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/05_arrays/01_sum_first_last.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_js_advanced/05_arrays/02.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_js_advanced/05_arrays/02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тест.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +60,8 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.тест.js">
-    <configuration name="02_greatest_common_divisor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements/02_greatest_common_divisor.js" working-dir="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements">
+  <component name="RunManager" selected="Node.js.02.js">
+    <configuration name="02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03_js_advanced/05_arrays/02.js" working-dir="$PROJECT_DIR$/03_js_advanced/05_arrays">
       <method v="2" />
     </configuration>
     <configuration name="03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements/03.js" working-dir="$PROJECT_DIR$/03_js_advanced/04_exercise_syntax_functions_and_statements">
@@ -142,18 +94,18 @@
     <list>
       <item itemvalue="Node.js.Unnamed" />
       <item itemvalue="Node.js.03.js" />
-      <item itemvalue="Node.js.02_greatest_common_divisor.js" />
       <item itemvalue="Node.js.04.js" />
       <item itemvalue="Shell Script.upload.sh" />
       <item itemvalue="Node.js.тест.js" />
+      <item itemvalue="Node.js.02.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.02.js" />
+        <item itemvalue="Shell Script.upload.sh" />
         <item itemvalue="Node.js.тест.js" />
         <item itemvalue="Node.js.04.js" />
         <item itemvalue="Node.js.03.js" />
-        <item itemvalue="Shell Script.upload.sh" />
-        <item itemvalue="Node.js.02_greatest_common_divisor.js" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +173,7 @@
       <workItem from="1616576123114" duration="111000" />
       <workItem from="1617278868533" duration="3911000" />
       <workItem from="1617871870191" duration="6189000" />
-      <workItem from="1617961211483" duration="2183000" />
+      <workItem from="1617961211483" duration="3665000" />
     </task>
     <servers />
   </component>
