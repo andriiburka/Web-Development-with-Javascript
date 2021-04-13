@@ -12,14 +12,11 @@ Each element should be printed on a new line.
 function increasingSubsequence(inputArr) {
     let biggestNumSoFar = Number.MIN_SAFE_INTEGER
     let newArr = []
-
-    for (let currentIndex = 0; currentIndex < inputArr.length; currentIndex++) {
-        const currentNumber = inputArr[currentIndex]
-        if (currentNumber >= biggestNumSoFar) {
-            biggestNumSoFar = currentNumber
-            newArr.push(biggestNumSoFar)
+    inputArr.forEach(currentNum => {
+        if (currentNum >= biggestNumSoFar) {
+            biggestNumSoFar = currentNum; newArr.push(biggestNumSoFar)
         }
-    }
+    })
     console.log(newArr.join('\n'))
 }
 

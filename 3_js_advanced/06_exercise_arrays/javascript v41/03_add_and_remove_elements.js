@@ -8,7 +8,6 @@ The input comes as an array of strings. Each element holds a command.
 The output is the array itself, with each element printed on a new line. In case of an empty array, just print "Empty".
 */
 
-
 function addOrRemoveElement(x) {
     let initNum = 1, arr = [];
     x.forEach(current => {
