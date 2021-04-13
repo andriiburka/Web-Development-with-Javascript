@@ -10,12 +10,12 @@ Each element should be printed on a new line.
 */
 
 function increasingSubsequence(inputArr) {
-    let biggestNumYet = Number.MIN_SAFE_INTEGER
+    let biggestNumSoFar = Number.MIN_SAFE_INTEGER
     let newArr = []
 
     for (let currentIndex = 0; currentIndex < inputArr.length; currentIndex++) {
-        if (inputArr[currentIndex] >= biggestNumYet) {
-            biggestNumYet = inputArr[currentIndex]
+        if (inputArr[currentIndex] >= biggestNumSoFar) {
+            biggestNumSoFar = inputArr[currentIndex]
             newArr.push(inputArr[currentIndex])
         }
     }
