@@ -9,20 +9,18 @@ The output is the array itself, with each element printed on a new line. In case
 */
 
 
-function f(x) {
-    let initNum = 1, arr = []
-
+function addOrRemoveElement(x) {
+    let initNum = 1, arr = [];
     x.forEach(current => {
-        current === 'add' ? arr.push(initNum) : arr.pop()
-        initNum++
+        current === 'add' ? arr.push(initNum) : arr.pop();
+        initNum++;
     })
-
-    console.log(arr.length === 0 ? 'Empty' : arr.join('\n'))
+    console.log(arr.length === 0 ? 'Empty' : arr.join('\n'));
 }
 
-// f(['add', 'add', 'add', 'add'])
-// f(['add', 'add', 'remove', 'add', 'add'])
-f(['remove', 'remove', 'remove'])
+addOrRemoveElement(['add', 'add', 'add', 'add'])
+// addOrRemoveElement(['add', 'add', 'remove', 'add', 'add'])
+// addOrRemoveElement(['remove', 'remove', 'remove'])
 
 
 // every element on the new line
