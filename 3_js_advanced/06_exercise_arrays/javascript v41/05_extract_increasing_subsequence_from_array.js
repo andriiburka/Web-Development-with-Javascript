@@ -9,16 +9,17 @@ The output is the processed array after the filtration, which should be a non-de
 Each element should be printed on a new line.
 */
 
-function increasingSubsequence(x) {
-    let biggest = Number.MIN_SAFE_INTEGER
-    let arr = []
+function increasingSubsequence(inputArr) {
+    let biggestNumYet = Number.MIN_SAFE_INTEGER
+    let newArr = []
 
-    for (let i = 0; i < x.length; i++) {
-        if (x[i] >= biggest) {
-            biggest = x[i]; arr.push(x[i])
+    for (let currentIndex = 0; currentIndex < inputArr.length; currentIndex++) {
+        if (inputArr[currentIndex] >= biggestNumYet) {
+            biggestNumYet = inputArr[currentIndex]
+            newArr.push(inputArr[currentIndex])
         }
     }
-    console.log(arr.join('\n'))
+    console.log(newArr.join('\n'))
 }
 
 increasingSubsequence([1, 3, 8, 4, 10, 12, 3, 2, 24])
