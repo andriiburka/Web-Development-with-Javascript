@@ -14,9 +14,10 @@ function increasingSubsequence(inputArr) {
     let newArr = []
 
     for (let currentIndex = 0; currentIndex < inputArr.length; currentIndex++) {
-        if (inputArr[currentIndex] >= biggestNumSoFar) {
-            biggestNumSoFar = inputArr[currentIndex]
-            newArr.push(inputArr[currentIndex])
+        const currentNumber = inputArr[currentIndex]
+        if (currentNumber >= biggestNumSoFar) {
+            biggestNumSoFar = currentNumber
+            newArr.push(biggestNumSoFar)
         }
     }
     console.log(newArr.join('\n'))
