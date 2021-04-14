@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="" />
+    <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js_basics/dir1_polezni_linkove_0-0/abc.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -56,10 +59,7 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.upload.sh">
-    <configuration name="02_print_every_n-th_element_from_an_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/02_print_every_n-th_element_from_an_array.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.dccfgh.js">
     <configuration name="03_add_and_remove_elements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/03_add_and_remove_elements.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
       <method v="2" />
     </configuration>
@@ -70,6 +70,9 @@
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="dccfgh.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/dccfgh.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays">
       <method v="2" />
     </configuration>
     <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
@@ -89,19 +92,19 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.02_print_every_n-th_element_from_an_array.js" />
       <item itemvalue="Node.js.03_add_and_remove_elements.js" />
-      <item itemvalue="Shell Script.upload.sh" />
       <item itemvalue="Node.js.05_extract_increasing_subsequence_from_array.js" />
       <item itemvalue="Node.js.04_rotate_array.js" />
+      <item itemvalue="Node.js.dccfgh.js" />
+      <item itemvalue="Shell Script.upload.sh" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.dccfgh.js" />
         <item itemvalue="Shell Script.upload.sh" />
         <item itemvalue="Node.js.05_extract_increasing_subsequence_from_array.js" />
         <item itemvalue="Node.js.04_rotate_array.js" />
         <item itemvalue="Node.js.03_add_and_remove_elements.js" />
-        <item itemvalue="Node.js.02_print_every_n-th_element_from_an_array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +177,8 @@
       <workItem from="1618044498391" duration="4205000" />
       <workItem from="1618133082068" duration="2058000" />
       <workItem from="1618216914511" duration="5669000" />
-      <workItem from="1618306671780" duration="5336000" />
+      <workItem from="1618306671780" duration="6682000" />
+      <workItem from="1618389173827" duration="1356000" />
     </task>
     <servers />
   </component>
