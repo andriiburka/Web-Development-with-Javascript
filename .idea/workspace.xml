@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/softuniada2020_new_softuni_building.js" beforeDir="false" afterPath="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,9 +46,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/js_basics/dir16_predvaritelen_online_izpit/tasks" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,14 +64,14 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.softuniada2020_new_softuni_building.js">
-    <configuration name="03_add_and_remove_elements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/03_add_and_remove_elements.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.1.js">
     <configuration name="04_rotate_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/04_rotate_array.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
       <method v="2" />
     </configuration>
     <configuration name="05_extract_increasing_subsequence_from_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/05_extract_increasing_subsequence_from_array.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
+      <method v="2" />
+    </configuration>
+    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
@@ -91,19 +97,19 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.03_add_and_remove_elements.js" />
       <item itemvalue="Node.js.05_extract_increasing_subsequence_from_array.js" />
       <item itemvalue="Node.js.04_rotate_array.js" />
-      <item itemvalue="Shell Script.upload.sh" />
       <item itemvalue="Node.js.softuniada2020_new_softuni_building.js" />
+      <item itemvalue="Node.js.1.js" />
+      <item itemvalue="Shell Script.upload.sh" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.softuniada2020_new_softuni_building.js" />
+        <item itemvalue="Node.js.1.js" />
         <item itemvalue="Shell Script.upload.sh" />
+        <item itemvalue="Node.js.softuniada2020_new_softuni_building.js" />
         <item itemvalue="Node.js.05_extract_increasing_subsequence_from_array.js" />
         <item itemvalue="Node.js.04_rotate_array.js" />
-        <item itemvalue="Node.js.03_add_and_remove_elements.js" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +184,18 @@
       <workItem from="1618216914511" duration="5669000" />
       <workItem from="1618306671780" duration="6682000" />
       <workItem from="1618389173827" duration="2283000" />
+      <workItem from="1620934297693" duration="34000" />
+      <workItem from="1620934466573" duration="617000" />
+      <workItem from="1620935337709" duration="1000" />
+      <workItem from="1620935489260" duration="9000" />
+      <workItem from="1621161251720" duration="9000" />
+      <workItem from="1621673363119" duration="783000" />
+      <workItem from="1621940316010" duration="599000" />
+      <workItem from="1622445655355" duration="1569000" />
+      <workItem from="1622489363405" duration="599000" />
+      <workItem from="1622886059202" duration="14000" />
+      <workItem from="1623344411656" duration="756000" />
+      <workItem from="1623347076377" duration="901000" />
     </task>
     <servers />
   </component>
