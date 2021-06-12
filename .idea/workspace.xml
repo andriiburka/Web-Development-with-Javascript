@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab2_string_length.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab2_string_length.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" beforeDir="false" afterPath="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,10 +66,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.1.js">
-    <configuration name="04_rotate_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/04_rotate_array.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
-      <method v="2" />
-    </configuration>
-    <configuration name="05_extract_increasing_subsequence_from_array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/05_extract_increasing_subsequence_from_array.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
+    <configuration name="01_print_an_array_with_a_given_delimiter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/01_print_an_array_with_a_given_delimiter.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
       <method v="2" />
     </configuration>
     <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
@@ -77,39 +75,30 @@
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="softuniada2020_new_softuni_building.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays">
+    <configuration name="lab1_echo_function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab1_echo_function.js" working-dir="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements">
       <method v="2" />
     </configuration>
-    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
-      <option name="SCRIPT_TEXT" value="" />
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="/bin/zsh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="EXECUTE_IN_TERMINAL" value="true" />
-      <option name="EXECUTE_SCRIPT_FILE" value="true" />
-      <envs />
+    <configuration name="lab2_string_length.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab2_string_length.js" working-dir="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements">
+      <method v="2" />
+    </configuration>
+    <configuration name="softuniada2020_new_softuni_building.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.05_extract_increasing_subsequence_from_array.js" />
-      <item itemvalue="Node.js.04_rotate_array.js" />
       <item itemvalue="Node.js.softuniada2020_new_softuni_building.js" />
+      <item itemvalue="Node.js.lab1_echo_function.js" />
+      <item itemvalue="Node.js.lab2_string_length.js" />
+      <item itemvalue="Node.js.01_print_an_array_with_a_given_delimiter.js" />
       <item itemvalue="Node.js.1.js" />
-      <item itemvalue="Shell Script.upload.sh" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.1.js" />
-        <item itemvalue="Shell Script.upload.sh" />
+        <item itemvalue="Node.js.01_print_an_array_with_a_given_delimiter.js" />
         <item itemvalue="Node.js.softuniada2020_new_softuni_building.js" />
-        <item itemvalue="Node.js.05_extract_increasing_subsequence_from_array.js" />
-        <item itemvalue="Node.js.04_rotate_array.js" />
+        <item itemvalue="Node.js.lab2_string_length.js" />
+        <item itemvalue="Node.js.lab1_echo_function.js" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +185,10 @@
       <workItem from="1622886059202" duration="14000" />
       <workItem from="1623344411656" duration="756000" />
       <workItem from="1623347076377" duration="901000" />
+      <workItem from="1623347984668" duration="423000" />
+      <workItem from="1623348540702" duration="92000" />
+      <workItem from="1623348675186" duration="1000" />
+      <workItem from="1623480969066" duration="500000" />
     </task>
     <servers />
   </component>

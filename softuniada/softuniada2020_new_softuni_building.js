@@ -32,7 +32,7 @@ function hallCalc(width) {
     }
 }
 
-hallCalc(9)
+hallCalc(90)
 // #...#...#
 // ...#...#.
 // ..#...#..

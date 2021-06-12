@@ -9,5 +9,5 @@ function f(...x) {
 }
 
 
-// f("chocolate", "ice cream", "cake")
+f("chocolate", "ice cream", "cake")
 f("pasta", "5", "22.3")
