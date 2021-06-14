@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/education-javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/education-javascript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab2_string_length.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab2_string_length.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" beforeDir="false" afterPath="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +54,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -65,40 +69,52 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.1.js">
+  <component name="RunManager" selected="Node.js.02_town_population.js">
+    <configuration name="01_city_record_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/01_city_record_100_100.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
+      <method v="2" />
+    </configuration>
     <configuration name="01_print_an_array_with_a_given_delimiter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/01_print_an_array_with_a_given_delimiter.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
       <method v="2" />
     </configuration>
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/1.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
+    <configuration name="02_town_population.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="lab1_echo_function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab1_echo_function.js" working-dir="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
       <method v="2" />
     </configuration>
-    <configuration name="lab2_string_length.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements/lab2_string_length.js" working-dir="$PROJECT_DIR$/3_js_advanced/03_syntax_functions_and_statements">
-      <method v="2" />
-    </configuration>
-    <configuration name="softuniada2020_new_softuni_building.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/softuniada/softuniada2020_new_softuni_building.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays">
+    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.softuniada2020_new_softuni_building.js" />
-      <item itemvalue="Node.js.lab1_echo_function.js" />
-      <item itemvalue="Node.js.lab2_string_length.js" />
       <item itemvalue="Node.js.01_print_an_array_with_a_given_delimiter.js" />
-      <item itemvalue="Node.js.1.js" />
+      <item itemvalue="Node.js.01_city_record_100_100.js" />
+      <item itemvalue="Node.js.02_town_population.js" />
+      <item itemvalue="Shell Script.upload.sh" />
+      <item itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.1.js" />
+        <item itemvalue="Node.js.02_town_population.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Shell Script.upload.sh" />
+        <item itemvalue="Node.js.01_city_record_100_100.js" />
         <item itemvalue="Node.js.01_print_an_array_with_a_given_delimiter.js" />
-        <item itemvalue="Node.js.softuniada2020_new_softuni_building.js" />
-        <item itemvalue="Node.js.lab2_string_length.js" />
-        <item itemvalue="Node.js.lab1_echo_function.js" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +204,10 @@
       <workItem from="1623347984668" duration="423000" />
       <workItem from="1623348540702" duration="92000" />
       <workItem from="1623348675186" duration="1000" />
-      <workItem from="1623480969066" duration="500000" />
+      <workItem from="1623480969066" duration="2399000" />
+      <workItem from="1623564036360" duration="6269000" />
+      <workItem from="1623612037761" duration="11224000" />
+      <workItem from="1623657535458" duration="10339000" />
     </task>
     <servers />
   </component>
