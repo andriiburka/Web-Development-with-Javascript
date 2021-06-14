@@ -1,8 +1,8 @@
 function sumPopulation(towns) {
-    let townsArray = towns.map(row => row.split(' <-> '))
+    let parsedInput = towns.map(row => row.split(' <-> '))
     let townObjects = []
 
-    townsArray.forEach(row => {
+    parsedInput.forEach(row => {
         const name = row[0]
         const population = Number(row[1])
         townObjects.some(obj => obj.name === name) ? (townObjects[0].population) += population : townObjects.push({

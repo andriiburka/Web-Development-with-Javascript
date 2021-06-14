@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/education-javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/education-javascript.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReaderModeSettings">
-    <option name="showLigatures" value="true" />
+    <option name="showLigatures" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,8 +102,8 @@
       <item itemvalue="Node.js.01_print_an_array_with_a_given_delimiter.js" />
       <item itemvalue="Node.js.01_city_record_100_100.js" />
       <item itemvalue="Node.js.02_town_population.js" />
-      <item itemvalue="Shell Script.upload.sh" />
       <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Shell Script.upload.sh" />
     </list>
     <recent_temporary>
       <list>
@@ -207,7 +204,10 @@
       <workItem from="1623480969066" duration="2399000" />
       <workItem from="1623564036360" duration="6269000" />
       <workItem from="1623612037761" duration="11224000" />
-      <workItem from="1623657535458" duration="10339000" />
+      <workItem from="1623657535458" duration="12026000" />
+      <workItem from="1623687280220" duration="1843000" />
+      <workItem from="1623698734210" duration="1416000" />
+      <workItem from="1623703334308" duration="39000" />
     </task>
     <servers />
   </component>
