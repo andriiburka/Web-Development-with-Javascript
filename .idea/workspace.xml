@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c496e3-3af7-4ea7-9d10-6d85de60f083" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition/02-ConstructionCrew.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition/03-CarFactory.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition/01-CalorieObject.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +69,17 @@
       <recent name="$PROJECT_DIR$/BASICS" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.02_town_population.js">
-    <configuration name="01_city_record_100_100.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/01_city_record_100_100.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
+  <component name="RunManager" selected="Node.js.03-CarFactory.js">
+    <configuration name="01-CalorieObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition/01-CalorieObject.js" working-dir="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition">
       <method v="2" />
     </configuration>
-    <configuration name="01_print_an_array_with_a_given_delimiter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41/01_print_an_array_with_a_given_delimiter.js" working-dir="$PROJECT_DIR$/3_js_advanced/06_exercise_arrays/javascript v41">
+    <configuration name="02-ConstructionCrew.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition/02-ConstructionCrew.js" working-dir="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition">
       <method v="2" />
     </configuration>
     <configuration name="02_town_population.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/02_town_population.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-CarFactory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition/03-CarFactory.js" working-dir="$PROJECT_DIR$/3_js_advanced/08_exercise_objects_and_composition">
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
@@ -82,36 +88,21 @@
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition/test.js" working-dir="$PROJECT_DIR$/3_js_advanced/07_objects_and_composition">
       <method v="2" />
     </configuration>
-    <configuration name="upload.sh" type="ShConfigurationType" temporary="true">
-      <option name="SCRIPT_TEXT" value="" />
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/upload.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="/bin/zsh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="EXECUTE_IN_TERMINAL" value="true" />
-      <option name="EXECUTE_SCRIPT_FILE" value="true" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.01_print_an_array_with_a_given_delimiter.js" />
-      <item itemvalue="Node.js.01_city_record_100_100.js" />
       <item itemvalue="Node.js.02_town_population.js" />
       <item itemvalue="Node.js.test.js" />
-      <item itemvalue="Shell Script.upload.sh" />
+      <item itemvalue="Node.js.01-CalorieObject.js" />
+      <item itemvalue="Node.js.02-ConstructionCrew.js" />
+      <item itemvalue="Node.js.03-CarFactory.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.02_town_population.js" />
+        <item itemvalue="Node.js.03-CarFactory.js" />
+        <item itemvalue="Node.js.02-ConstructionCrew.js" />
+        <item itemvalue="Node.js.01-CalorieObject.js" />
         <item itemvalue="Node.js.test.js" />
-        <item itemvalue="Shell Script.upload.sh" />
-        <item itemvalue="Node.js.01_city_record_100_100.js" />
-        <item itemvalue="Node.js.01_print_an_array_with_a_given_delimiter.js" />
+        <item itemvalue="Node.js.02_town_population.js" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +199,9 @@
       <workItem from="1623687280220" duration="1843000" />
       <workItem from="1623698734210" duration="1416000" />
       <workItem from="1623703334308" duration="39000" />
+      <workItem from="1623710060782" duration="1277000" />
+      <workItem from="1623741283266" duration="5055000" />
+      <workItem from="1624048776858" duration="9845000" />
     </task>
     <servers />
   </component>
