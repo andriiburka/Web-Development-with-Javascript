@@ -1,6 +1,5 @@
-function fun(input) {
+function convertArrayToJson(input) {
     let arrOfObj = []
-
     input.forEach(hero => {
         let [name, level, items] = hero.split(' / ')
 
@@ -14,8 +13,8 @@ function fun(input) {
 }
 
 
-console.log(
-    fun(['Isacc / 25 / Apple, GravityGun', 'Derek / 12 / BarrelVest, DestructionSword', 'Hes / 1 / Desolator, Sentinel, Antara'])
+console.log('\n First \n',
+    convertArrayToJson(['Isacc / 25 / Apple, GravityGun', 'Derek / 12 / BarrelVest, DestructionSword', 'Hes / 1 / Desolator, Sentinel, Antara'])
 )
 /* JSON
 [
@@ -25,13 +24,9 @@ console.log(
 ]
 */
 
-console.log()
-
-
-console.log(
-    fun(['Jake / 1000 / Gauss, HolidayGrenade'])
+console.log('\n Second \n',
+    convertArrayToJson(['Jake / 1000 / Gauss, HolidayGrenade'])
 )
-
 /* JSON
 [
     {
