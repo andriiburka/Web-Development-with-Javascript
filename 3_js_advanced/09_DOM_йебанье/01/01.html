@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" id="html-bg">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+<div>
+    <button id="btn" onclick="f()">BATON</button>
+    <button id="btn-darkTheme" onclick="darkTheme()">DARK</button>
+    <button id="btn-lightTheme" onclick="lightTheme()">LIGHT</button>
+    <h1>COMBASHOP</h1>
+</div>
+
+<script>
+    function f() {
+        alert(`The button is clicked`)
+    }
+
+    function darkTheme() {
+        let htmlDarkBgElement = document.getElementById('html-bg')
+        htmlDarkBgElement.style.background = 'black'
+        htmlDarkBgElement.style.color = 'gray'
+    }
+
+    function lightTheme() {
+        let htmlLightBgElement = document.getElementById('html-bg')
+        htmlLightBgElement.style.background = 'lightgray'
+        htmlLightBgElement.style.color = 'black'
+    }
+</script>
+
+</body>
+</html>
